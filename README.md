@@ -18,7 +18,7 @@ Estruturas de Dados aplicadas em C++:
 15. Processamento de Cadeia de caracteres e Compressão (KMP, BMs e Robin-Karp, Compressão de Textos em Linguagem Natural, RLE, Codificação de Huffman, Lempel-Ziv).
 
 
-# TRABALHO PRÁTICO
+# Final Work
 
 Introdução
 Neste trabalho, utilizaremos uma base de dados do Kaggle que contem informações de contém diversas informações sobre aproximadamente 45 mil filmes, incluindo metadados detalhados. O conjunto de dados é composto por arquivos CSV que abrangem informações como:
